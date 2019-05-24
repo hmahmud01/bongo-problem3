@@ -1,21 +1,11 @@
 Problem 3 Video player with react app
 
-Pseudocode for The problem :
+Please follow the steps to run and test the application
+1. after pulling the project, run npm install from the root folder
+2. then run npm test to see the test output
+3. run npm start to run the project
 
-get button actions response
-if response is equal to moveBackward
-	decrease the videoElement currentTime 5 sec
-if response is equal to moveForward
-	increase the videoElement currentTime 5 sec
-if response is equal to playPauseVideo
-	if video is paused
-		resume the video
-		update the button
-	else
-		pause the video
-		update the button
-if response is eqal to stop
-	pause the video
-	make the videoElement currentTime 0
-	update the pause button to play button
+to test the react project, Mocha, Chai, enzyme and sinon library has been used
+
+solution provided by Hasan Mahmud
 

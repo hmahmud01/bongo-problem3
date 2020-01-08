@@ -4,9 +4,9 @@ class Header extends React.Component{
 	render(){
 		return(
 			<div>
-				<h1>Solution for problem 3</h1>
+				<h1>Bongo Front End Interview Solution</h1>
 		    	<h3>Video Player</h3>
-		    	<p>Video player with play forward rewind stop and progress bar functionality</p>
+		    	<p>Solution to problem3</p>
 			</div>
 			)
 	}
